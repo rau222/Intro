@@ -42,8 +42,3 @@
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kpachhai&count_private=true&show_icons=true&hide_border=true&theme=radical" />
 
-[website]: https://kiranpachhai.com/
-[twitter]: https://twitter.com/mr_pachhai
-[youtube]: https://www.youtube.com/channel/UCu1XxDJE84ZvgLJ-EssbveA
-[instagram]: https://instagram.com/kiranpwoods
-[linkedin]: https://linkedin.com/in/kiranpachhai
